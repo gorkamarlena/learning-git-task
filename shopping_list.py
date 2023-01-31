@@ -14,3 +14,5 @@ warzywniak_products = len(shopping_list["warzywniak"])
 sum = piekarnia_products + warzywniak_products
 
 print("W sumie kupuję", sum,"produktów")
+
+# Greetings to my Mentor :)
